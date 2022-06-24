@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+### I'm front-end developer, but i wanna be full-stack developer
+
 
 <!--
 **min2oyo/min2oyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
