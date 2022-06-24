@@ -1,5 +1,5 @@
 ## Hi,👋
-### I'm front-end developer, but I wanna be full-stack developer.
+### I'm front-end developer, but I wanna be full-stack developer :D
 
 
 <!--
