@@ -1,13 +1,13 @@
-## Hi,👋
-### I'm front-end developer, but I wanna be full-stack developer :D
+### Hi,👋
+#### I'm front-end developer, but I wanna be full-stack developer :D
 
 
-# repositories
-## Projects
+## repositories
+### Projects
 
-## Skills
+### Skills
 
-## Example
+### Example
 - [웹 표준의 정석](https://github.com/min2oyo/doit-web-standard)
 
 
