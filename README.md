@@ -10,7 +10,6 @@
 - [로그인(node.js)](https://github.com/min2oyo/login-lecture)
 
 ### Skills
-#### React
 - [Style Components](https://github.com/min2oyo/nomad-style-components)
 
 ### Example
