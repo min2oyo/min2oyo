@@ -4,6 +4,7 @@
 
 ## My Repositories
 ### Projects
+- [영어 단어장](https://github.com/min2oyo/voca)
 - [영화 소개](https://github.com/min2oyo/movies)
 - [H&M](https://github.com/min2oyo/hnm)
 - [연락처 관리](https://github.com/min2oyo/phonebook)
