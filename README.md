@@ -12,7 +12,8 @@
 - [Google](https://github.com/min2oyo/google)
 
 ### Skills
-- [React - router](https://github.com/min2oyo/noona-react-router)
+- [React - Router](https://github.com/min2oyo/noona-react-router)
+- [React - Redux](https://github.com/min2oyo/noona-react-redux)
 - [React - Style Components](https://github.com/min2oyo/nomad-style-components)
 
 ### Example
