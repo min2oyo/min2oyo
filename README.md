@@ -10,6 +10,8 @@
 ## Example
 - https://github.com/min2oyo/doit-web-standard
 - link: [네이버](https://www.naver.com)
+- [네이버](https://www.naver.com, "네이버로 이동하기")
+
 
 
 
