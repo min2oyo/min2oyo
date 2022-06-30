@@ -18,8 +18,8 @@
 ### Example
 - [MarkDown 문법](https://github.com/min2oyo/markdown)
 - [팀 개발 Git](https://github.com/min2oyo/iTshirt)
-- [웹 표준의 정석](https://github.com/min2oyo/doit-web-standard)
-- [반응형 웹 페이지 만들기](#)
+- [DoIt - 웹 표준의 정석](https://github.com/min2oyo/doit-web-standard)
+- [DoIt - 반응형 웹 페이지 만들기](#)
 - [(P)코알누 - Web](https://github.com/min2oyo/noona-web)
 - [(P)코알누 - JavaScript](https://github.com/min2oyo/noona-js)
 - [(P)코알누 - React](https://github.com/min2oyo/noona-react)
