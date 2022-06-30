@@ -3,12 +3,13 @@
 
 
 # repositories
-## 프로젝트
+## Projects
 
-## 기술정리
+## Skills
 
-## 예제
+## Example
 - https://github.com/min2oyo/doit-web-standard
+- link: [네이버](https://www.naver.com![image](https://user-images.githubusercontent.com/86812072/176577540-42133799-118b-4099-9b64-4be88ccfd4e1.png)
 
 
 
