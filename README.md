@@ -5,6 +5,7 @@
 ## My Repositories
 ### Projects
 - [제주 여행](https://github.com/min2oyo/dream-jeju)
+- [amazon](https://github.com/min2oyo/amazon)
 - [로그인(node.js)](https://github.com/min2oyo/login-lecture)
 
 ### Skills
