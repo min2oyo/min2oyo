@@ -2,7 +2,7 @@
 #### I'm front-end developer, but I wanna be full-stack developer :D
 
 
-## repositories
+## My Repositories
 ### Projects
 
 ### Skills
