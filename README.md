@@ -4,11 +4,13 @@
 
 ## My Repositories
 ### Projects
+- [세계 날씨](https://github.com/min2oyo/world-weather)
 - [제주 여행](https://github.com/min2oyo/dream-jeju)
+- - [로그인(node.js)](https://github.com/min2oyo/login-lecture)
+- [가위바위보 게임](https://github.com/min2oyo/rps-game)
 - [amazon](https://github.com/min2oyo/amazon)
 - [Google](https://github.com/min2oyo/google)
-- [로그인(node.js)](https://github.com/min2oyo/login-lecture)
-- [가위바위보 게임](https://github.com/min2oyo/rps-game)
+
 
 ### Skills
 - [Style Components](https://github.com/min2oyo/nomad-style-components)
