@@ -11,7 +11,7 @@
 
 ### Skills
 - React
--- [Style Components](https://github.com/min2oyo/nomad-style-components)
++ [Style Components](https://github.com/min2oyo/nomad-style-components)
 
 ### Example
 - [MarkDown 문법](https://github.com/min2oyo/markdown)
