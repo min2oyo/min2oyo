@@ -2,12 +2,13 @@
 ### I'm front-end developer, but I wanna be full-stack developer :D
 
 
+# repositories
 
-# 프로젝트
+## 프로젝트
 
-# 기술정리
+## 기술정리
 
-# 예제
+## 예제
 
 
 
