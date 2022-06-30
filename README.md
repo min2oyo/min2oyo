@@ -1,7 +1,18 @@
 ## Hi,👋
 ### I'm front-end developer, but I wanna be full-stack developer :D
 
-!!
+
+
+#프로젝트
+
+#기술정리
+
+#예제
+
+
+
+
+
 <!--
 **min2oyo/min2oyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
