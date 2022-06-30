@@ -4,6 +4,7 @@
 
 ## My Repositories
 ### Projects
+- [공원, 어디로 갈까?](https://github.com/Couch-Coders/7th-park-fe)
 - [영어 단어장](https://github.com/min2oyo/voca)
 - [영화 소개](https://github.com/min2oyo/movies)
 - [H&M](https://github.com/min2oyo/hnm)
