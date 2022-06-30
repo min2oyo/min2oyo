@@ -6,6 +6,7 @@
 ### Projects
 
 ### Skills
+- [style components](https://github.com/min2oyo/nomad-style-components)
 
 ### Example
 - https://github.com/min2oyo/markdown
