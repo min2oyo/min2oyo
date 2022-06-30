@@ -10,8 +10,8 @@
 - [로그인(node.js)](https://github.com/min2oyo/login-lecture)
 
 ### Skills
-- React
-+ [Style Components](https://github.com/min2oyo/nomad-style-components)
+## React
+- [Style Components](https://github.com/min2oyo/nomad-style-components)
 
 ### Example
 - [MarkDown 문법](https://github.com/min2oyo/markdown)
