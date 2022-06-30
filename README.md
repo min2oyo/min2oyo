@@ -8,9 +8,7 @@
 ## Skills
 
 ## Example
-- https://github.com/min2oyo/doit-web-standard
-- link: [네이버](https://www.naver.com)
-- [네이버](https://www.naver.com, "네이버로 이동하기")
+- [웹 표준의 정석](https://github.com/min2oyo/doit-web-standard)
 
 
 
