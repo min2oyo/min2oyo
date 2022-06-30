@@ -4,6 +4,7 @@
 
 ## My Repositories
 ### Projects
+- [영화 소개](https://github.com/min2oyo/movies)
 - [H&M](https://github.com/min2oyo/hnm)
 - [연락처 관리](https://github.com/min2oyo/phonebook)
 - [세계 날씨](https://github.com/min2oyo/world-weather)
