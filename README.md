@@ -27,13 +27,15 @@
 - [팀 개발 Git](https://github.com/min2oyo/iTshirt)
 - [DoIt - 웹 표준의 정석](https://github.com/min2oyo/doit-web-standard)
 - [DoIt - 반응형 웹 페이지](https://github.com/min2oyo/doit-web-responsive)
+- [DoIt - 자바 완전 정복](https://github.com/min2oyo/java-complete-conquest)
+- [코딩 문제 - Java](https://github.com/min2oyo/java-answer)
 - [(P)코알누 - Web](https://github.com/min2oyo/noona-web)
 - [(P)코알누 - JavaScript](https://github.com/min2oyo/noona-js)
 - [(P)코알누 - React](https://github.com/min2oyo/noona-react)
 - [생활코딩 - React](https://github.com/min2oyo/egoing-react)
 - [생활코딩 - Java](https://github.com/min2oyo/egoing-java)
 - [생활코딩 - Python](https://github.com/min2oyo/egoing-python)
-- [코딩 문제 - Java](https://github.com/min2oyo/java-answer)
+
 
 
 
