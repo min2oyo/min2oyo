@@ -4,17 +4,21 @@
 
 ## My Repositories
 ### Projects
-- [공원, 어디로 갈까?](https://github.com/Couch-Coders/7th-park-fe)
-- [가위바위보 게임](https://github.com/min2oyo/rps-game)
-- [영어 단어장](https://github.com/min2oyo/voca)
-- [영화 소개](https://github.com/min2oyo/movies)
-- [H&M](https://github.com/min2oyo/hnm)
-- [연락처 관리](https://github.com/min2oyo/phonebook)
-- [세계 날씨](https://github.com/min2oyo/world-weather)
-- [제주 여행](https://github.com/min2oyo/dream-jeju)
-- [로그인(node.js)](https://github.com/min2oyo/login-lecture)
-- [Amazon](https://github.com/min2oyo/amazon)
-- [Google](https://github.com/min2oyo/google)
+- 스프링 (이클립스)
+  - [게시판 (코딩강사)](https://github.com/min2oyo/codinggangsa-board)
+
+- 기존 프로젝트들
+  - [공원, 어디로 갈까?](https://github.com/Couch-Coders/7th-park-fe)
+  - [가위바위보 게임](https://github.com/min2oyo/rps-game)
+  - [영어 단어장](https://github.com/min2oyo/voca)
+  - [영화 소개](https://github.com/min2oyo/movies)
+  - [H&M](https://github.com/min2oyo/hnm)
+  - [연락처 관리](https://github.com/min2oyo/phonebook)
+  - [세계 날씨](https://github.com/min2oyo/world-weather)
+  - [제주 여행](https://github.com/min2oyo/dream-jeju)
+  - [로그인(node.js)](https://github.com/min2oyo/login-lecture)
+  - [Amazon](https://github.com/min2oyo/amazon)
+  - [Google](https://github.com/min2oyo/google)
 
 ### Skills
 - [React - Router](https://github.com/min2oyo/noona-react-router)
