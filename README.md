@@ -28,12 +28,11 @@
 
 ### Study
 - WEB
-  - 
+  - [DoIt - 웹 표준의 정석](https://github.com/min2oyo/doit-web-standard)
 
 - 기존 학습
   - [MarkDown 문법](https://github.com/min2oyo/markdown)
   - [팀 개발 Git](https://github.com/min2oyo/iTshirt)
-  - [DoIt - 웹 표준의 정석](https://github.com/min2oyo/doit-web-standard)
   - [DoIt - 반응형 웹 페이지](https://github.com/min2oyo/doit-web-responsive)
   - [DoIt - 자바 완전 정복](https://github.com/min2oyo/java-complete-conquest)
   - [KoreaIT - Java test](https://github.com/min2oyo/java-answer)
@@ -43,8 +42,6 @@
   - [생활코딩 - React](https://github.com/min2oyo/egoing-react)
   - [생활코딩 - Java](https://github.com/min2oyo/egoing-java)
   - [생활코딩 - Python](https://github.com/min2oyo/egoing-python)
-
-
 
 
 
