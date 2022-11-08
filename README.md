@@ -10,6 +10,16 @@
 - 리액트
   - [가위바위보 게임](https://github.com/min2oyo/noona-react-rps)
 
+### Study
+- WEB
+  - [DoIt - 웹 표준의 정석](https://github.com/min2oyo/doit-web-standard)
+
+- React
+  - [(P)코알누 - React](https://github.com/min2oyo/noona-react)
+
+
+
+## 기존
 - 기존 프로젝트들
   - [공원, 어디로 갈까?](https://github.com/Couch-Coders/7th-park-fe)
   - [영어 단어장](https://github.com/min2oyo/voca)
@@ -22,18 +32,6 @@
   - [Amazon](https://github.com/min2oyo/amazon)
   - [Google](https://github.com/min2oyo/google)
 
-### Skills
-- [React - Router](https://github.com/min2oyo/noona-react-router)
-- [React - Redux](https://github.com/min2oyo/noona-react-redux)
-- [React - TypeScript](https://github.com/min2oyo/angma-react-typescript)
-- [React - Style Components](https://github.com/min2oyo/nomad-style-components)
-
-### Study
-- WEB
-  - [DoIt - 웹 표준의 정석](https://github.com/min2oyo/doit-web-standard)
-
-- React
-  - [(P)코알누 - React](https://github.com/min2oyo/noona-react)
 
 - 기존 학습
   - [MarkDown 문법](https://github.com/min2oyo/markdown)
@@ -48,6 +46,11 @@
   - [생활코딩 - Java](https://github.com/min2oyo/egoing-java)
   - [생활코딩 - Python](https://github.com/min2oyo/egoing-python)
 
+-  Skills
+  - [React - Router](https://github.com/min2oyo/noona-react-router)
+  - [React - Redux](https://github.com/min2oyo/noona-react-redux)
+  - [React - TypeScript](https://github.com/min2oyo/angma-react-typescript)
+  - [React - Style Components](https://github.com/min2oyo/nomad-style-components)
 
 
 
