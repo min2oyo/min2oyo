@@ -32,6 +32,9 @@
 - WEB
   - [DoIt - 웹 표준의 정석](https://github.com/min2oyo/doit-web-standard)
 
+- React
+  - [(P)코알누 - React](https://github.com/min2oyo/noona-react)
+
 - 기존 학습
   - [MarkDown 문법](https://github.com/min2oyo/markdown)
   - [팀 개발 Git](https://github.com/min2oyo/iTshirt)
