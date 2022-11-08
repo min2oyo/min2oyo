@@ -38,7 +38,7 @@
   - [KoreaIT - Java test](https://github.com/min2oyo/java-answer)
   - [(P)코알누 - Web](https://github.com/min2oyo/noona-web)
   - [(P)코알누 - JavaScript](https://github.com/min2oyo/noona-js)
-  - [(P)코알누 - React](https://github.com/min2oyo/noona-react)
+  - [(P)코알누 - React](https://github.com/min2oyo/noona-react-old)
   - [생활코딩 - React](https://github.com/min2oyo/egoing-react)
   - [생활코딩 - Java](https://github.com/min2oyo/egoing-java)
   - [생활코딩 - Python](https://github.com/min2oyo/egoing-python)
