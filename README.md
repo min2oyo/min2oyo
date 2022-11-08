@@ -7,9 +7,11 @@
 - 스프링 (이클립스)
   - [게시판 (코딩강사)](https://github.com/min2oyo/codinggangsa-board)
 
+- 리액트
+  - [가위바위보 게임](https://github.com/min2oyo/rps-game)
+
 - 기존 프로젝트들
   - [공원, 어디로 갈까?](https://github.com/Couch-Coders/7th-park-fe)
-  - [가위바위보 게임](https://github.com/min2oyo/rps-game)
   - [영어 단어장](https://github.com/min2oyo/voca)
   - [영화 소개](https://github.com/min2oyo/movies)
   - [H&M](https://github.com/min2oyo/hnm)
