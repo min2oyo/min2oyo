@@ -9,6 +9,7 @@
 
 - 리액트
   - [가위바위보 게임](https://github.com/min2oyo/noona-react-rps)
+  - [날씨](https://github.com/min2oyo/noona-react-weather)
 
 ### Study
 - WEB
