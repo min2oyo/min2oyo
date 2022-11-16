@@ -11,6 +11,7 @@
   - [가위바위보 게임](https://github.com/min2oyo/noona-react-rps)
   - [날씨](https://github.com/min2oyo/noona-react-weather)
   - [H&M](https://github.com/min2oyo/noona-react-hnm)
+  - [연락처](https://github.com/min2oyo/noona-react-phonebook)
 
 ### Study
 - WEB
