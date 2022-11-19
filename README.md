@@ -12,6 +12,7 @@
   - [날씨](https://github.com/min2oyo/noona-react-weather)
   - [H&M](https://github.com/min2oyo/noona-react-hnm)
   - [연락처](https://github.com/min2oyo/noona-react-phonebook)
+  - [amazon](https://github.com/min2oyo/reactbacksu-amazon)
 
 ### Study
 - WEB
