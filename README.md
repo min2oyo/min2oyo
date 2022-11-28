@@ -12,8 +12,8 @@
   - [날씨](https://github.com/min2oyo/noona-react-weather)
   - [H&M](https://github.com/min2oyo/noona-react-hnm)
   - [연락처](https://github.com/min2oyo/noona-react-phonebook)
-  - [Amazon](https://github.com/min2oyo/reactbacksu-amazon)
   - [Netflix](https://github.com/min2oyo/legobitna-react-netflix)
+  - [Amazon](https://github.com/min2oyo/reactbacksu-amazon)
 
 ### Study
 - WEB
