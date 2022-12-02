@@ -17,7 +17,7 @@
 
 ### Study
 - WEB
-  - [DoIt - 웹 표준의 정석](https://github.com/min2oyo/Eun-Sook-Kim-web)
+  - [Do it! 웹 표준의 정석](https://github.com/min2oyo/Eun-Sook-Kim-web)
 
 - React
   - [(P)코알누 - React](https://github.com/min2oyo/noona-react)
