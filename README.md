@@ -1,6 +1,4 @@
-## Hi,👋
-#### I'm starting developer, and later I wanna be full-stack developer :D
-
+## Hi :D,👋 
 
 ## My Repositories
 ### Projects
