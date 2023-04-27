@@ -2,16 +2,13 @@
 
 ## My Repositories
 ### Projects
-- 스프링 (이클립스)
-  - [게시판 (코딩강사)](https://github.com/min2oyo/codinggangsa-board)
-
-- 리액트
-  - [가위바위보 게임](https://github.com/min2oyo/noona-react-rps)
-  - [날씨](https://github.com/min2oyo/noona-react-weather)
-  - [H&M](https://github.com/min2oyo/noona-react-hnm)
-  - [연락처](https://github.com/min2oyo/noona-react-phonebook)
-  - [Netflix](https://github.com/min2oyo/legobitna-react-netflix)
-  - [Amazon](https://github.com/min2oyo/reactbacksu-amazon)
+- [게시판](https://github.com/min2oyo/codinggangsa-board)
+- [가위바위보 게임](https://github.com/min2oyo/noona-react-rps)
+- [날씨](https://github.com/min2oyo/noona-react-weather)
+- [H&M](https://github.com/min2oyo/noona-react-hnm)
+- [연락처](https://github.com/min2oyo/noona-react-phonebook)
+- [Netflix](https://github.com/min2oyo/legobitna-react-netflix)
+- [Amazon](https://github.com/min2oyo/reactbacksu-amazon)
 
 ### 기능 정리
 - [React](https://github.com/min2oyo/react-test)
