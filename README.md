@@ -13,9 +13,8 @@
   - [Netflix](https://github.com/min2oyo/legobitna-react-netflix)
   - [Amazon](https://github.com/min2oyo/reactbacksu-amazon)
 
-###
-- 기능 정리
-  - [React](https://github.com/min2oyo/react-test)
+### 기능 정리
+- [React](https://github.com/min2oyo/react-test)
 
 ### Study
 - WEB
