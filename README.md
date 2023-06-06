@@ -1,4 +1,4 @@
-## Hi :D,👋
+## Hi :D👋
 
 <!-- ## My Repositories
 ### Projects
