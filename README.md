@@ -1,6 +1,6 @@
 ## Hi :D,👋 
 
-## My Repositories
+<!-- ## My Repositories
 ### Projects
 - [게시판](https://github.com/min2oyo/codinggangsa-board)
 - [가위바위보 게임](https://github.com/min2oyo/noona-react-rps)
@@ -60,7 +60,7 @@
   - [React - Router](https://github.com/min2oyo/noona-react-router)
   - [React - Redux](https://github.com/min2oyo/noona-react-redux)
   - [React - TypeScript](https://github.com/min2oyo/angma-react-typescript)
-  - [React - Style Components](https://github.com/min2oyo/nomad-style-components)
+  - [React - Style Components](https://github.com/min2oyo/nomad-style-components) -->
 
 
 
