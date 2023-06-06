@@ -1,4 +1,4 @@
-## Hi :D,👋 
+## Hi :D,👋
 
 <!-- ## My Repositories
 ### Projects
@@ -60,7 +60,7 @@
   - [React - Router](https://github.com/min2oyo/noona-react-router)
   - [React - Redux](https://github.com/min2oyo/noona-react-redux)
   - [React - TypeScript](https://github.com/min2oyo/angma-react-typescript)
-  - [React - Style Components](https://github.com/min2oyo/nomad-style-components) --> -->
+  - [React - Style Components](https://github.com/min2oyo/nomad-style-components) -->
 
 
 
